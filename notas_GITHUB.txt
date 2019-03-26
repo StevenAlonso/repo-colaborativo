@@ -1,3 +1,6 @@
 ######### NOTAS DE CLASE GITHUB ###########
-
 ........................................
+Merge: 
+git checkout [Nombre de Rama] (de la que actualizaré)
+git merge [Nombre de Rama] (de la que deseo extraer los cambios)
+
